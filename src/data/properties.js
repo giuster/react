@@ -1,0 +1,32 @@
+export const properties = [
+    {
+      id: 1,
+      title: "Appartement 3 pièces à Annemasse",
+      price: "320 000 €",
+      location: "Annemasse",
+      image: "https://www.appartement-a-vendre.com/wp-content/uploads/2021/05/Appartement-Loue-a-Vendre-.jpeg",
+      description: "Bel appartement lumineux avec balcon et garage.",
+      rooms: 2,
+      priceNumber: 320000,
+    },
+    {
+      id: 2,
+      title: "Maison de charme à Étrembières",
+      price: "595 000 €",
+      location: "Étrembières",
+      image: "https://www.maisons-pierre.com/wp-content/uploads/2021/04/1300x600-maisons-pierre-lemag-quel-type-maison-choisir-couv.jpg",
+      description: "Maison familiale avec jardin et vue sur les montagnes.",
+      rooms: 3,
+      priceNumber: 595000,
+    },
+    {
+      id: 1,
+      title: "Appartement 2 pièces à Annemasse",
+      price: "250 000 €",
+      location: "Annemasse",
+      image: "https://www.appartement-a-vendre.com/wp-content/uploads/2021/05/Appartement-Loue-a-Vendre-.jpeg",
+      description: "Bel appartement lumineux avec balcon et garage.",
+      rooms: 1,
+      priceNumber: 250000,
+    },
+  ];
